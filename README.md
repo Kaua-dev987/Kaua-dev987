@@ -13,6 +13,3 @@
   <a href = "mailto:kauafgm18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjo9IKS-piKAxVjppUCHfRWHg0QFnoECBUQAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fkau%25C3%25A3-felipe-gomes-medeiros-15b770337&usg=AOvVaw2A37rw8MSSWKIi7H4owfpw&opi=89978449" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- <img  alt="gif" src="https://media.tenor.com/b2Q8nyvkW2kAAAAM/duck-pixel.gif****" height = "50" whidth = "50">
-
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
