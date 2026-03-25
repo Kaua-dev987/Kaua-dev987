@@ -1,6 +1,6 @@
 ## Olá , Sou o Kauã Felipe 
-💻 - Estudante do 3º ano ensino médio <br>
-💻 - Aprendenfo php/c++e e javaScript <br><br>
+Técnico em desenvolvimento de sistemas <br>
+💻 - Aprendendo php/c++e e javaScript <br><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="KAUA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KAUA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
