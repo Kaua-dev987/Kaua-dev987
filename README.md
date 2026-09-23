@@ -1,8 +1,8 @@
 # Olá, eu sou o Kauã Felipe 👋
 
-### Técnico em Desenvolvimento de Sistemas | Desenvolvedor Full Stack & Mobile
+### Graduando em Engenharia da Computação |Técnico em Desenvolvimento de Sistemas | Desenvolvedor Full Stack & Mobile
 
-Atualmente focado em criar soluções robustas com **PHP (CodeIgniter)** no backend e experiências fluidas com **React Native** no mobile. Sou de Hidrolândia/CE e apaixonado por tecnologia.
+Atualmente focado em criar soluções robustas com **PHP (CodeIgniter,Laravel)** no backend e experiências fluidas com **React Native** no mobile. Sou de Sobral/ce e sou apaixonado por tecnologia.
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente focado em criar soluções robustas com **PHP (CodeIgniter)** no back
 
 #### **Especialidades**
 * 📱 **Mobile:** Desenvolvimento com React Native e Expo.
-* 🌐 **Web:** Sistemas escaláveis usando PHP com CodeIgniter.
+* 🌐 **Web:** Sistemas escaláveis usando PHP com CodeIgniter e Laravel.
 * 🗄️ **Banco de Dados:** Modelagem e consultas SQL (MySQL/SQLite).
 
 ---
